@@ -1,7 +1,7 @@
 import aws_cdk as cdk
 
 
-US_WEST_2 = cdk.Environment(
-    account='281708499374',
-    region='us-west-2'
+US_EAST_2 = cdk.Environment(
+    account='178707647236',
+    region='us-east-2'
 )
